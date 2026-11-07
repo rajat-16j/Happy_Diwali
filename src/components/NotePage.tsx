@@ -107,7 +107,7 @@ export default function NotePage({ onBack }: NotePageProps) {
               </p>
 
               <p className="animate-fadeUp delay-1500">
-                I more than all the mithai in the world, and trust me, that's a LOT. 🍬
+                I more than all the things in the world, and trust me, that's a LOT. 🍬
               </p>
 
               <p className="animate-fadeUp delay-2000 text-rose-200">
