@@ -13,7 +13,7 @@ export default function NotePage({ onBack }: NotePageProps) {
   // Customize your photo and message here
   const surprisePhoto = '/surprise-photo.jpg';
   const surpriseMessage =
-    'You are one of the sweetest parts of my life. Always keep smiling, Bacchi. You deserve all the happiness in the world. ❤️';
+    'Always keep smiling, Bacchi. You deserve all the happiness in the world. ❤️';
 
   return (
     <div className="relative min-h-screen px-4 py-12 sm:py-16 overflow-hidden">
@@ -134,7 +134,7 @@ export default function NotePage({ onBack }: NotePageProps) {
                 <Gift className="w-12 h-12 text-amber-300 mb-3 group-hover:animate-bounce" />
 
                 <span className="font-script text-2xl sm:text-3xl text-amber-200">
-                  A little surprise for you 💝
+                  My Virtual Gift 💝
                 </span>
 
                 <span className="text-xs text-amber-100/60 mt-2">
@@ -151,7 +151,7 @@ export default function NotePage({ onBack }: NotePageProps) {
                   <div className="flex justify-center items-center gap-2 mb-5">
                     <Sparkles className="w-5 h-5 text-amber-300" />
                     <h3 className="font-script text-3xl sm:text-4xl text-amber-200">
-                      One more thing, Bacchi ❤️
+                      keep smile like this that will be my Happy Diwali, Bacchi ❤️
                     </h3>
                     <Sparkles className="w-5 h-5 text-amber-300" />
                   </div>
