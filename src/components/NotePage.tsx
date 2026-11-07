@@ -151,7 +151,7 @@ export default function NotePage({ onBack }: NotePageProps) {
                   <div className="flex justify-center items-center gap-2 mb-5">
                     <Sparkles className="w-5 h-5 text-amber-300" />
                     <h3 className="font-script text-3xl sm:text-4xl text-amber-200">
-                      keep smile like this that will be my Happy Diwali, Bacchi ❤️
+                      keep smile like this this and my family will be my Happy Diwali, Bacchi ❤️
                     </h3>
                     <Sparkles className="w-5 h-5 text-amber-300" />
                   </div>
