@@ -76,6 +76,7 @@ export default function NotePage({ onBack }: NotePageProps) {
                 Agla diwali tum apne pure family ke saath manayegi i gurantee. 🪔
               </p>
               <p className="animate-fadeUp delay-1000">
+                Tumhara bhai jldi hi thik ho jayega, aur tumhare saath fir se masti kar payega. 😎
                 Khoob patakha phodo, mithai khao, aur apne pyare smile se khud ko apne family ko roshan kro,
                 aur hmko bhi, hehehehe💥
               </p>
